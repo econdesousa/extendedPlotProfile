@@ -37,16 +37,6 @@ please cite:
 * CLIJ https://www.nature.com/articles/s41592-019-0650-1
 
 
-```java
-
-
-
-
-
-
-
-
-```
 
 # Setup
 
